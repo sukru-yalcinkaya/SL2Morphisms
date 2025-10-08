@@ -2538,7 +2538,7 @@ end;
 SL2KtoBBGv23:=function(LL,svf,gU,z)
 # "LL" is the output of "ToolBoxSL2",
 # "svf" is the output of "SharpVsFlat",
-# "gU" is a list of unipotent elements from SL2 over a prime field of type version 2 corresponding to the paper.
+# "gU" is a list of unipotent elements from SL2 over a prime field of type version 23 corresponding to the paper.
 
 local Snew,Eo,id,gu1,gu2,gu3,gu1i,gu2i,gu3i,o11,o12,p1,q1,o21,o22,p2,q2,o31,o32,p3,q3;
 
